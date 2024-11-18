@@ -1,7 +1,6 @@
 let password = "amjilt_the_best";
 let password2 = 5;
 
-// Цикл арқылы пароль сұрау
 for (let attempt = 0; attempt < password2; attempt++) {
     let password3 = prompt("Парольді енгізіңіз:");
 
