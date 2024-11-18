@@ -1,7 +1,7 @@
 let password = "amjilt_the_best";
 let password2 = 5;
 
-for (let attempt = 0; attempt < password2; attempt++) {
+for (let attempt = 0; attempt <= password2; attempt++) {
     let password3 = prompt("Парольді енгізіңіз:");
 
     if (password3 === password) {
